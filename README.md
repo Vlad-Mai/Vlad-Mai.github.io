@@ -1,2 +1,2 @@
-# Vlad-Mai.github.io
+# Vlad-Mai.github.io/primeone
 primeone
